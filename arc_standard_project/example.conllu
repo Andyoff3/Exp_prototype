@@ -1,0 +1,5 @@
+# text = I love NLP .
+1	I	I	PRON	_	_	2	nsubj	_	_
+2	love	love	VERB	_	_	0	root	_	_
+3	NLP	NLP	PROPN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
